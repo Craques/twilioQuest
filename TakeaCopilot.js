@@ -1,7 +1,7 @@
 const twilio = require('twilio');
 const moment = require('moment');
-const accountSid = "AC0a9ce95f8bb6515424d02f71c866f129";
-const authToken = "35c623b2a66bba261a54a71ac2c8888e";
+const accountSid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+const authToken = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 const client = twilio(accountSid, authToken);
 
